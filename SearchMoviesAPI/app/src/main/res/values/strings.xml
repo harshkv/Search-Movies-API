@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SearchMoviesAPI</string>
+    <string name="title">Search Movies</string>
+    <string name="search">Search</string>
+</resources>
